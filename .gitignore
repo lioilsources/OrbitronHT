@@ -4,3 +4,25 @@ Packages
 ProjectSettings
 Temp
 obj
+Assets/*.meta
+Assets/*.txt
+Assets/*.unity
+*.txt
+*.userprefs
+.vs/
+Assets/Arts/
+Assets/Editor/
+Assets/Font/
+Assets/Maps/
+Assets/Materials/
+Assets/ParticlePack/
+Assets/Plugins/
+Assets/Prefabs/
+Assets/Resources/
+Assets/Ships/
+Assets/SkyBox Volume 2/
+Assets/Standard Assets/
+Assets/SteamNetwork/
+Assets/Texture/
+Assets/Scripts/*.meta
+Assets/Scripts/**/*.meta
